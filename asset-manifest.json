@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Sorce/static/css/main.b75ba49f.css",
-    "main.js": "/Sorce/static/js/main.0723c720.js",
-    "index.html": "/Sorce/index.html",
-    "main.b75ba49f.css.map": "/Sorce/static/css/main.b75ba49f.css.map",
-    "main.0723c720.js.map": "/Sorce/static/js/main.0723c720.js.map"
+    "main.css": "/Source/static/css/main.b75ba49f.css",
+    "main.js": "/Source/static/js/main.e84cb5d6.js",
+    "index.html": "/Source/index.html",
+    "main.b75ba49f.css.map": "/Source/static/css/main.b75ba49f.css.map",
+    "main.e84cb5d6.js.map": "/Source/static/js/main.e84cb5d6.js.map"
   },
   "entrypoints": [
     "static/css/main.b75ba49f.css",
-    "static/js/main.0723c720.js"
+    "static/js/main.e84cb5d6.js"
   ]
 }
