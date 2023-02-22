@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sorce/static/css/main.b75ba49f.css",
+    "main.js": "/Sorce/static/js/main.0723c720.js",
+    "index.html": "/Sorce/index.html",
+    "main.b75ba49f.css.map": "/Sorce/static/css/main.b75ba49f.css.map",
+    "main.0723c720.js.map": "/Sorce/static/js/main.0723c720.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b75ba49f.css",
+    "static/js/main.0723c720.js"
+  ]
+}
